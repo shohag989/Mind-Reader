@@ -4,9 +4,7 @@
 
 ---
 
-## 📸 Preview
-
-![Mind Reader Screenshot](./preview.png) <!-- Optional: Replace with your actual screenshot -->
+## 📸 [Preview: ](https://mindreaderby-shohag.netlify.app)
 
 ---
 
