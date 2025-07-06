@@ -1,0 +1,33 @@
+/* Basic responsive adjustments */
+@media (max-width: 768px) {
+    .inputDiv {
+        max-width: 90%;
+        margin: 0 10px;
+    }
+
+    .animated-border-content {
+        padding: 2rem 1.5rem;
+    }
+
+    h1 {
+        font-size: 2rem; /* Adjust heading size for smaller screens */
+    }
+
+    p {
+        font-size: 0.9rem; /* Adjust paragraph size */
+    }
+}
+
+@media (max-width: 480px) {
+    .animated-border-content {
+        padding: 1.5rem 1rem;
+    }
+
+    h1 {
+        font-size: 1.75rem;
+    }
+
+    p {
+        font-size: 0.85rem;
+    }
+}
